@@ -12,6 +12,7 @@ The project uses four main tables:
 2. **Gold Users Signup**: Contains details about users who have signed up for the gold membership, including user ID and the date they joined the gold program.
 3. **Sales**: Contains transaction details, including user ID, the date of purchase, and product ID.
 4. **Product**: Contains product details, including product ID, product name, and price.
+![Db_Diagram](https://github.com/savankrm/Zomato-SQL-Analysis/assets/106424033/efcc8404-8be7-4dc2-8b35-cc84022ffcf9)
 
 ## Analysis Queries
 
